@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 🧑‍🎓I am an undergraduate at Esoft UNI
+- 🧑‍🎓I am an undergraduate at ESU UNI
 
 - 💬 Ask me about **javascript**
 
